@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "apple",
+      "title": "An apple is an edible fruit produced by an apple tree",
+      "type": "fruit",
+      "price": 25,
+      "image": "https://placekitten.com/640/360"
+    },
+    {
+      "id": 2,
+      "name": "grape",
+      "title": "A grape is a fruit, botanically a berry, of the flowering plant genus Vitis.",
+      "type": "fruit",
+      "price": 50,
+      "image": "http://via.placeholder.com/640x360http://via.placeholder.com/640x360"
+    },
+    {
+      "id": 3,
+      "name": "banana",
+      "title": "A banana is an elongated, edible fruit and something like that",
+      "type": "fruit",
+      "price": 40,
+      "image": "https://loremflickr.com/640/360"
+    },
+    {
+      "id": 4,
+      "name": "orange",
+      "title": "loerm ipsum. edible fruit and loerm ipsum. edible",
+      "type": "fruit",
+      "price": 5,
+      "image": "http://via.placeholder.com/640x360http://via.placeholder.com/640x360"
+    },
+    {
+      "id": 5,
+      "name": "lemon",
+      "title": "The lemon, Citrus limon, is a species of small",
+      "type": "fruit",
+      "price": 15,
+      "image": "http://via.placeholder.com/640x360http://via.placeholder.com/640x360"
+    },
+    {
+      "id": 6,
+      "name": "strawberry",
+      "title": "The garden strawberry is a widely grown hybrid species",
+      "type": "fruit",
+      "price": 12,
+      "image": "http://via.placeholder.com/640x360http://via.placeholder.com/640x360"
+    }
+  ]
+}
