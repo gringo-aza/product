@@ -15,10 +15,10 @@ export const getProduct = ({commit}, productId)=> {
 export const addProductToCart = ({commit}, {product, quantity, count})=>{
     commit('ADD_TO_CART', {product, quantity, count})
 
-    // axios.post('http://localhost:3000',{
-    //     product_id: product.id,
-    //     quantity,
-    // })
+    axios.post('http://localhost:3000',{
+        product_id: product.id,
+        quantity,
+    })
 };
 
 export const removeCart= ({commit}, product)=> {
