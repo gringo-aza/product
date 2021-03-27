@@ -1,4 +1,5 @@
 1. Cloning my repo
-2. Just connect my "db.json" local api to it:
+2. Install json server global("npm i json server-g")
+3. Just connect my "db.json" local api to it:
 json-server db.json
-3. Enjoy it)
+4. Enjoy it)
